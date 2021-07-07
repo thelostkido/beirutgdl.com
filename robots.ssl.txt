@@ -3,4 +3,4 @@ disallow: /site_admin/
 disallow: /bentobox/
 disallow: /kitchen/
 
-Sitemap: https://www.collettarestaurant.com/sitemap.xml
+Sitemap: https://www.beirutgdl.com/sitemap.xml
