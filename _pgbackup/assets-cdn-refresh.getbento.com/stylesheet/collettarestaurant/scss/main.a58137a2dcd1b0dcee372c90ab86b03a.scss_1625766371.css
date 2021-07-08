@@ -4802,13 +4802,6 @@ b {
     border: 2px solid #fff;
     background-color: transparent;
     color: #fff;
-    margin-top: 11px;
-    padding-top: 0px;
-    padding-bottom: 0px;
-    max-width: 62px;
-    width: 45px;
-    height: 91px;
-    max-height: 71px;
 }
 
 .btn2:hover {
@@ -24721,7 +24714,7 @@ h1.instagram {
     content: "";
     display: block;
     width: 30px;
-    background: rgba(42, 59, 91, 0);
+    background: #2a3b5b;
     height: 2px;
     margin-left: auto;
     margin-right: auto;
