@@ -8473,10 +8473,7 @@ img.mfp-img {
     }
 
     .ps50 {
-        margin-top: 1px;
-        display: inline-block;
-        vertical-align: middle;
-        align-self: stretch;
+        margin-top: 35px;
     }
 
     .ps51 {
@@ -23250,6 +23247,7 @@ ul.card-listing {
 .hero--gallery .hero__content a,
 .hero--gallery .gallery__content a {
     display: inline-block;
+   
 }
 
 .hero--gallery .hero__content *,

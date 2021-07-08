@@ -7233,7 +7233,7 @@ img.mfp-img {
 
     .f14 {
         font-size: 13px;
-        line-height: 19px;
+        line-height: 24px;
     }
 
     .ps36 {
@@ -8473,10 +8473,7 @@ img.mfp-img {
     }
 
     .ps50 {
-        margin-top: 1px;
-        display: inline-block;
-        vertical-align: middle;
-        align-self: stretch;
+        margin-top: 35px;
     }
 
     .ps51 {
