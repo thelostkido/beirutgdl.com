@@ -7102,7 +7102,9 @@ img.mfp-img {
 
     .s48 {
         width: 773px;
-        margin-left: -2px;
+        position: relative;
+        display: inline-block;
+        text-align: center;
     }
 
     .ps30 {
@@ -7408,6 +7410,7 @@ img.mfp-img {
     .f16 {
         font-size: 76px;
         line-height: 110px;
+        text-align: center;
     }
 
     .ps52 {
@@ -8906,7 +8909,7 @@ img.mfp-img {
     }
 
     .c31 {
-        background-image: url(../images/img20190829111006-430.jpg);
+        background-image: url('../../../../images/tabule.jpg');
         background-size: cover;
     }
 
@@ -8915,7 +8918,7 @@ img.mfp-img {
     }
 
     .c35 {
-        background-image: url(../images/img20190829110950-430.jpg);
+        background-image: url('../../../../images/kafta.jpg');
         background-size: cover;
     }
 
@@ -19463,7 +19466,7 @@ screen and (max-height: 300px) {
 
 html,
 body {
-    width: 100%;
+    width: auto;
     height: 100%;
 }
 
@@ -19481,7 +19484,6 @@ body.is-boxed {
 main {
     position: relative;
     z-index: 0;
-    padding-top: 0px;
 }
 
 hr {
@@ -24621,6 +24623,7 @@ section#intro+.c-split:before,
 h1.instagram a {
     transition: 1s;
     color: #937127 !important;
+    text-align: center;
 }
 
 h1.instagram a:hover {
@@ -25198,7 +25201,6 @@ button.close:hover {
     section,
     .content,
     .instagram-grid {
-        width: 100% !important;
         margin: 0px;
     }
 
