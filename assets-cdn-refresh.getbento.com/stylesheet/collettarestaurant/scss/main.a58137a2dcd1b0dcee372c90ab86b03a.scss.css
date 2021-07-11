@@ -24,6 +24,11 @@
 }
 
 @font-face {
+    font-family: "Arabica";
+    src: url("../../../../media-cdn.getbento.com/accounts/4e84fa105d04379104b8a7f98f1f966d/media/Arabica.ttf") format("truetype");
+}
+
+@font-face {
     font-family: "Montserrat";
     src: url('Montserrat-Regular.woff2') format('woff2'), url('Montserrat-Regular.woff') format('woff');
     font-weight: 400;
@@ -24801,7 +24806,7 @@ h1.instagram {
 }
 
 .menu-section>div {
-    font-family: 'Wisdom_Script';
+    font-family: 'Arabica';
     text-align: right;
     color: #B2892F;
     padding: .5rem 1rem;
