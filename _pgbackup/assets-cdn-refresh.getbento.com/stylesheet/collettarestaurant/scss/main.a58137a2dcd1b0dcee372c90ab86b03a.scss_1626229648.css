@@ -1214,7 +1214,7 @@ button:focus,
 
 .site-header-desktop-primary--collapsed .site-nav-menu .site-nav-link,
 .site-header-desktop-primary--collapsed .site-nav-menu ul li a {
-    color: #c9b5de;
+    color: #414042;
 }
 
 .site-header-desktop-primary--collapsed .site-nav-menu .site-nav-link:active,
@@ -4419,7 +4419,6 @@ b {
     width: 1200px;
     margin-left: auto;
     margin-right: auto;
-    vertical-align: middle;
 }
 
 .ps14 {
@@ -4859,7 +4858,7 @@ b {
 
 .ps29 {
     position: relative;
-    margin-top: -314px;
+    margin-top: -251px;
 }
 
 .s48 {
@@ -4971,10 +4970,10 @@ b {
     letter-spacing: 0.50px;
     text-shadow: none;
     margin-top: -7px;
-    top: -37px;
-    padding-top: 10px;
-    padding-bottom: 20px;
-    margin-bottom: -23px;
+    top: -27px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin-bottom: -33px;
 }
 
 .ps33 {
@@ -5018,7 +5017,7 @@ b {
     font-style: normal;
     text-decoration: none;
     text-transform: none;
-    color: #f5eeee;
+    color: #000;
     background-color: initial;
     line-height: 50px;
     letter-spacing: normal;
@@ -5081,7 +5080,7 @@ b {
     font-style: normal;
     text-decoration: none;
     text-transform: uppercase;
-    color: #faf7f7;
+    color: #232323;
     background-color: initial;
     line-height: 25px;
     letter-spacing: 0.50px;
@@ -6664,19 +6663,19 @@ img.mfp-img {
 
 @media (min-width:768px) and (max-width:1199px) {
     .s {
-        min-width: 803px;
-        min-height: 122px;
+        min-width: 768px;
+        min-height: 93px;
     }
 
     .s2 {
-        min-width: 795px;
-        min-height: 119px;
+        min-width: 768px;
+        min-height: 93px;
     }
 
     .s3 {
         min-width: 768px;
-        min-height: 132px;
-        height: 103px;
+        min-height: 93px;
+        height: 93px;
     }
 
     .ps4 {
@@ -7167,8 +7166,8 @@ img.mfp-img {
     }
 
     .s51 {
-        min-width: 554px;
-        width: 554px;
+        min-width: 534px;
+        width: 534px;
         min-height: 95px;
         height: 95px;
     }
@@ -7177,7 +7176,6 @@ img.mfp-img {
         font-family: Catamaran;
         font-size: 16px;
         line-height: 31px;
-        color: #f8f3f3;
     }
 
     .ps33 {
@@ -7217,7 +7215,6 @@ img.mfp-img {
     .f13 {
         font-size: 27px;
         line-height: 43px;
-        color: #fffbfb;
     }
 
     .s55 {
@@ -7249,7 +7246,6 @@ img.mfp-img {
     .f14 {
         font-size: 13px;
         line-height: 19px;
-        color: #f3e8e8;
     }
 
     .ps36 {
@@ -7427,9 +7423,6 @@ img.mfp-img {
         font-size: 76px;
         line-height: 110px;
         text-align: center;
-        color: #f3e3e3;
-        margin-left: -76px;
-        background-color: #230f0f;
     }
 
     .ps52 {
@@ -21153,7 +21146,7 @@ select {
 .site-footer-desktop-primary .site-nav-menu button:not(.btn),
 .site-footer-desktop-primary .site-nav-submenu>span,
 .site-footer-desktop-primary .site-nav-submenu>a {
-    color: #f5f5f5;
+    color: #414042;
 }
 
 .site-footer-desktop-primary .site-nav-menu a:not(.btn):hover,
@@ -21213,8 +21206,6 @@ select {
     .site-footer-desktop-secondary .site-powered-by {
         padding-left: 1.875rem;
         padding-right: 1.875rem;
-        background-color: #121111;
-        color: #fafafa;
     }
 }
 
@@ -21872,7 +21863,7 @@ select {
     -webkit-transition: all .2s ease-in-out 0s;
     transition: all .2s ease-in-out 0s;
     display: inline-block;
-    color: #faf6fe;
+    color: #414042;
 }
 
 .site-nav-menu a:not(.btn):hover,
@@ -23282,7 +23273,6 @@ ul.card-listing {
 .hero--gallery .hero__content *,
 .hero--gallery .gallery__content * {
     pointer-events: auto;
-    color: #f3ecec;
 }
 
 .hero #motion-elements-control-section {
@@ -24473,7 +24463,6 @@ section {
 .site-header-desktop .site-location__tel {
     text-transform: uppercase;
     letter-spacing: 2px;
-    color: #f3ecec;
 }
 
 .site-header-desktop-primary>.container,
@@ -25206,7 +25195,6 @@ button.close:hover {
 
     .site-header-desktop-secondary {
         padding-top: .75rem;
-        background-size: contain;
     }
 
     .site-header-desktop-primary,
@@ -25245,7 +25233,6 @@ button.close:hover {
     .hero h1,
     .hero .h1 {
         font-size: 4.5rem;
-        color: #e5d9d9;
     }
 }
 

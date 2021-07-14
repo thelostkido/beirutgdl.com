@@ -23282,7 +23282,6 @@ ul.card-listing {
 .hero--gallery .hero__content *,
 .hero--gallery .gallery__content * {
     pointer-events: auto;
-    color: #f3ecec;
 }
 
 .hero #motion-elements-control-section {

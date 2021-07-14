@@ -4419,7 +4419,6 @@ b {
     width: 1200px;
     margin-left: auto;
     margin-right: auto;
-    vertical-align: middle;
 }
 
 .ps14 {
@@ -4859,7 +4858,7 @@ b {
 
 .ps29 {
     position: relative;
-    margin-top: -314px;
+    margin-top: -251px;
 }
 
 .s48 {
@@ -4971,10 +4970,10 @@ b {
     letter-spacing: 0.50px;
     text-shadow: none;
     margin-top: -7px;
-    top: -37px;
-    padding-top: 10px;
-    padding-bottom: 20px;
-    margin-bottom: -23px;
+    top: -27px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin-bottom: -33px;
 }
 
 .ps33 {
@@ -5018,7 +5017,7 @@ b {
     font-style: normal;
     text-decoration: none;
     text-transform: none;
-    color: #f5eeee;
+    color: #000;
     background-color: initial;
     line-height: 50px;
     letter-spacing: normal;
@@ -5081,7 +5080,7 @@ b {
     font-style: normal;
     text-decoration: none;
     text-transform: uppercase;
-    color: #faf7f7;
+    color: #232323;
     background-color: initial;
     line-height: 25px;
     letter-spacing: 0.50px;
@@ -23282,7 +23281,6 @@ ul.card-listing {
 .hero--gallery .hero__content *,
 .hero--gallery .gallery__content * {
     pointer-events: auto;
-    color: #f3ecec;
 }
 
 .hero #motion-elements-control-section {
