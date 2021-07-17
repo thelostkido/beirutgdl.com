@@ -1616,6 +1616,7 @@ abbr[title] {
 b,
 strong {
     font-weight: bold;
+    color: #1d8f10;
 }
 
 dfn {
@@ -3853,6 +3854,7 @@ ul {
 
 li {
     display: block;
+    color: #f9ecec;
 }
 
 li p {
@@ -24487,6 +24489,7 @@ section {
 .site-header-desktop-primary>.container,
 .site-footer-desktop-primary__container {
     max-width: none;
+    background-color: #0f0c0c;
 }
 
 .alert__content,
@@ -24796,6 +24799,7 @@ h1.instagram {
     display: block;
     margin-bottom: .5rem;
     font-size: 1.1rem;
+    color: #a22525;
 }
 
 .menus-template .col-md-6 {
@@ -25218,6 +25222,7 @@ button.close:hover {
         padding-top: 1.4rem;
         background-size: contain;
         padding-bottom: -40px;
+        background-image: url(../../../../images/4x/TEXT@4x.png);
     }
 
     .site-header-desktop-primary,
