@@ -4267,12 +4267,11 @@ b {
 }
 
 .p2 {
-    padding-top: 0;
     text-indent: 0;
-    padding-bottom: 0;
 
     /* padding-right: 29px */
     text-align: center;
+    padding: 15px;
 }
 
 .f3 {
@@ -7435,7 +7434,6 @@ img.mfp-img {
         text-align: center;
         color: #f3e3e3;
         margin-left: -76px;
-        background-color: #230f0f;
     }
 
     .ps52 {
@@ -19579,7 +19577,6 @@ h6,
 
 h1,
 .h1 {
-    color: #2a3b5b;
     font-weight: 400;
     text-transform: uppercase;
     letter-spacing: 4px;
@@ -23516,7 +23513,6 @@ ul.slick-track {
 
 .instagram-grid {
     width: 100%;
-    background-color: #414042;
 }
 
 .instagram-grid::after {
@@ -24390,6 +24386,9 @@ h1:last-child {
 
 .container {
     max-width: auto;
+    padding: 0px;
+    right: -23px;
+    left: -23px;
 }
 
 .site-footer-desktop-primary__container {

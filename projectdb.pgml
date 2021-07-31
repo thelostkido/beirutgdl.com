@@ -1,0 +1,23 @@
+<project>
+    <documents></documents>
+    <dmdesigns>
+        <dmdesign active>
+            <dmdesignskill skill="bs5.colors">
+                <dmcolor key="primary" color="#0f0f0f"/>
+                <dmcolor key="secondary" color="#6c757d"/>
+                <dmcolor key="info" color="#0dcaf0"/>
+                <dmcolor key="success" color="#198754"/>
+                <dmcolor key="warning" color="#ffc107"/>
+                <dmcolor key="danger" color="#dc3545"/>
+                <dmcolor key="white" color="#000000"/>
+                <dmcolor key="light" color="#000000"/>
+                <dmcolor key="dark" color="#000000"/>
+            </dmdesignskill>
+            <dmdesignskill skill="fonts"></dmdesignskill>
+            <dmdesignskill skill="headings"></dmdesignskill>
+            <dmdesignskill skill="background" image_for_colors="true" color="$primary"></dmdesignskill>
+            <dmdesignskill skill="bootstrap" gutter="-1"></dmdesignskill>
+        </dmdesign>
+    </dmdesigns>
+    <dmlocked bs5-colors-primary="false" bs5-colors-secondary="false" bs5-colors-info="false" bs5-colors-success="true" bs5-colors-warning="true" bs5-colors-danger="true" bs5-colors-white="false" bs5-colors-light="false" bs5-colors-dark="false"></dmlocked>
+</project>
