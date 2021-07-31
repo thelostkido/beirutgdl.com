@@ -1,0 +1,58 @@
+
+/* Pinegrow generated Theme Init Begin */
+$primary: #000000;
+$secondary: #050505;
+$info: #0dcaf0;
+$success: #198754;
+$warning: #ffc107;
+$danger: #dc3545;
+$white: white;
+$light: #f8f9fa;
+$dark: #000000;
+html { font-size: 100% !important; }
+$grid-gutter-width: 24px;
+$border-radius: 1rem;
+$border-radius-lg: 1.2rem;
+$border-radius-sm: 0.8rem;
+$dropdown-border-radius: .25rem !default;
+$btn-border-radius: 0.25rem;
+$btn-border-radius-lg: 0.3rem;
+$btn-border-radius-sm: 0.2rem;
+$enable-shadows: false;
+$enable-negative-margins: true;
+$enable-gradients: false;
+$min-contrast-ratio: 4.5;
+body, html {min-height: 100vh;}
+
+    /* Pinegrow generated Theme Init End */
+/* Bootstrap theme customized with Pinegrow Web Editor */
+/* Vars go before the @import */
+
+/* Click on the Uncomment icon in the Style panel to uncomment and customize the variables: */
+
+//$primary: #007bff;
+//$secondary: #6c757d;
+//$success: #28a745;
+//$info: #17a2b8;
+//$warning: #ffc107;
+//$danger: #dc3545;
+//$light: #f8f9fa;
+//$dark: #343a40;
+
+//$body-bg: #ffffff;
+//$body-color: #212529;
+
+/* Import web fonts - Must come before any CSS rules. Refresh the Page view after making changes to import statements. */
+//@import url('https://fonts.googleapis.com/css2?family=Lato:wght@100;400;700&family=Playfair+Display:wght@400;700;900&display=swap');
+
+//$font-family-sans-serif: 'Lato', sans-serif;
+//$headings-font-family: 'Playfair Display', serif;
+
+@import "bootstrap/bootstrap";
+
+/* Custom CSS rules come here */
+
+/* Pinegrow generated Additional Rules Begin */
+body, html {min-height: 100vh;}
+
+    /* Pinegrow generated Additional Rules End */
