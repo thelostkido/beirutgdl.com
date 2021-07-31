@@ -2078,11 +2078,12 @@ h6,
 .h4,
 .h5,
 .h6 {
-    margin-bottom: 1rem;
     font-family: "Liberator";
     font-weight: 500;
     line-height: 1.1;
     color: inherit;
+    text-align: center;
+    display: inline-block;
 }
 
 h1 {
@@ -4270,8 +4271,12 @@ b {
     text-indent: 0;
 
     /* padding-right: 29px */
+    position: relative;
+
+    /* display: inline-block */
     text-align: center;
-    padding: 15px;
+
+    /* background-position: center top */
 }
 
 .f3 {
@@ -7253,7 +7258,7 @@ img.mfp-img {
 
     .f14 {
         font-size: 13px;
-        line-height: 19px;
+        line-height: 17px;
         color: #f3e8e8;
     }
 
@@ -7432,8 +7437,7 @@ img.mfp-img {
         font-size: 76px;
         line-height: 110px;
         text-align: center;
-        color: #f3e3e3;
-        margin-left: -76px;
+        color: #050404;
     }
 
     .ps52 {
@@ -8331,7 +8335,7 @@ img.mfp-img {
 
     .f14 {
         font-size: 13px;
-        line-height: 22px;
+        line-height: 20px;
         color: #f5f1f1;
     }
 
@@ -19699,6 +19703,7 @@ _:-ms-input-placeholder,
 a {
     -webkit-transition: color .2s ease-in-out 0s;
     transition: color .2s ease-in-out 0s;
+    margin-left: 1px;
 }
 
 .no-link {
@@ -23262,7 +23267,7 @@ ul.card-listing {
 }
 
 .hero--fullheight:not(.hero--no-content) {
-    padding-bottom: 47px;
+    padding-bottom: 37px;
 }
 
 .hero--scrollable .hero__content,
@@ -24367,10 +24372,6 @@ _:-webkit-full-screen {
     outline: 3px solid #4d90fe;
 }
 
-h2:last-child,
-h1:last-child {
-}
-
 .card-listing-heading {
     margin-bottom: 2rem !important;
 }
@@ -24431,7 +24432,7 @@ section {
 
 .hero {
     min-height: 0px !important;
-    padding-top: 0;
+    padding-top: 0px;
 }
 
 .arrow-btn:before {
@@ -25080,7 +25081,7 @@ button.close:hover {
     .index-template .hero,
     .hero {
         height: 90vh !important;
-        top: -13px;
+        top: -15px;
     }
 
     .hero .gallery {
@@ -25165,7 +25166,7 @@ button.close:hover {
         width: 100% !important;
         margin: 0rem !important;
         padding: 0px;
-        top: -24px;
+        top: -15px;
     }
 
     section,
@@ -25309,7 +25310,7 @@ button.close:hover {
     }
 
     .c-split {
-        margin-top: 15%;
+        margin-top: 0%;
         margin-bottom: 15%;
     }
 
