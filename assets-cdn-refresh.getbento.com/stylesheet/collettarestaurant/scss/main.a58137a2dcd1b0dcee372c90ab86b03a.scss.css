@@ -1599,6 +1599,8 @@ template {
 
 a {
     background-color: transparent;
+    display: inline-block;
+    text-align: center;
 }
 
 a:active {
