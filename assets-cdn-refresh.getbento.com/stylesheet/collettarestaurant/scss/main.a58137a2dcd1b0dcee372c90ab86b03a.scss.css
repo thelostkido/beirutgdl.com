@@ -21754,7 +21754,6 @@ select {
 }
 
 .site-header-mobi>.site-location {
-    background-color: #fff;
     padding-top: .5em;
     padding-bottom: .5em;
     margin-top: .9375rem;
@@ -24704,7 +24703,7 @@ section#intro+.c-split:before,
     left: 30px;
     bottom: -16px;
     top: auto;
-    background-color: #fff;
+    background-color: rgba(255, 255, 255, 0);
     transform: none;
 }
 
