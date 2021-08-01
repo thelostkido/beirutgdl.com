@@ -21883,7 +21883,7 @@ select {
     -webkit-transition: all .2s ease-in-out 0s;
     transition: all .2s ease-in-out 0s;
     display: inline-block;
-    color: #faf6fe;
+    color: rgba(250, 246, 254, 0);
 }
 
 .site-nav-menu a:not(.btn):hover,
