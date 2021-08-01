@@ -3856,7 +3856,7 @@ ul {
 
 li {
     display: block;
-    color: #f9ecec;
+    color: #ffffff;
 }
 
 li p {
@@ -21883,7 +21883,7 @@ select {
     -webkit-transition: all .2s ease-in-out 0s;
     transition: all .2s ease-in-out 0s;
     display: inline-block;
-    color: rgba(250, 246, 254, 0);
+    color: #f8f8f8;
 }
 
 .site-nav-menu a:not(.btn):hover,
