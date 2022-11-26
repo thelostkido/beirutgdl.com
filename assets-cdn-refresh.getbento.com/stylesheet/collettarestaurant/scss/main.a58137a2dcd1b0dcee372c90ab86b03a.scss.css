@@ -1863,6 +1863,7 @@ html {
 *::after {
     box-sizing: inherit;
     vertical-align: middle;
+    font-size: 18px;
 }
 
 @-moz-viewport {
@@ -24883,6 +24884,7 @@ h3,
 .h3,
 p {
     -webkit-font-smoothing: antialiased;
+    font-size: 18px;
 }
 
 section#intro {
